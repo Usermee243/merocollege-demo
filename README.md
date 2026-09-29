@@ -1,3 +1,3 @@
 # merocollege-demo
-Just creating a random repository.
-Aasik Bohara.
+Just creating a random repository.<br>
+Author: Aasik Bohara.
